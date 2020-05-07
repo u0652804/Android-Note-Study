@@ -17,7 +17,13 @@ DB Browser for SQLite - for open local db file in Android App package in device
 
 Draw.io - flow chart web editor tool
 
-#### bindService
+## Useful open source libs
+
+nanohttpd - httpServer in Android
+
+GreedDao - local sql database lib
+
+### bindService
 
 How to use bindService
 
