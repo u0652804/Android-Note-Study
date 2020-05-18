@@ -28,3 +28,11 @@ GreedDao - local sql database lib
 How to use bindService
 
 ref : https://blog.csdn.net/iispring/article/details/48169339
+
+
+
+## Build Config
+
+### set apk name when build in grandle
+
+ref : https://www.tanelikorri.com/tutorial/android/set-apk-filename-in-gradle/
