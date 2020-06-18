@@ -23,6 +23,10 @@ nanohttpd - httpServer in Android
 
 GreedDao - local sql database lib
 
+### some customer references
+
+文繞圖 : https://blog.csdn.net/zhangtongyuan0909/article/details/54864294
+
 ### bindService
 
 How to use bindService
