@@ -63,3 +63,12 @@ code
         connRecord += "\n" + config.SSID;
     }
     Log.i(TAG, connRecord);
+    
+    
+### webView with desktop version 
+
+ref : https://blog.csdn.net/qq982673701/article/details/78521554
+
+code 
+
+    webview.webSettings.setUserAgentString("Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4143.2 Safari/537.36");
